@@ -1,0 +1,53 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_07\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;H:\Backgammon1,0\Backgammon1,0
+-d
+H:\Backgammon1,0\Backgammon1,0\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\Backgammon1,0\Backgammon1,0\Interface.java
+<---- end of javadoc command ---->
+Loading source file H:\Backgammon1,0\Backgammon1,0\Interface.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_07
+Building tree for all the packages and classes...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\Interface.html...
+H:\Backgammon1,0\Backgammon1,0\Interface.java:102: warning - @param argument "None" is not a parameter name.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:32: warning - @param argument "None" is not a parameter name.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:146: warning - @param argument "None" is not a parameter name.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:146: warning - @return tag cannot be used in method with void return type.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:257: warning - @param argument "None" is not a parameter name.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:257: warning - @return tag cannot be used in method with void return type.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:354: warning - @param argument "None" is not a parameter name.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:354: warning - @return tag cannot be used in method with void return type.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:412: warning - @return tag cannot be used in method with void return type.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:433: warning - @param argument "None" is not a parameter name.
+H:\Backgammon1,0\Backgammon1,0\Interface.java:433: warning - @return tag cannot be used in method with void return type.
+Generating H:\Backgammon1,0\Backgammon1,0\doc\package-frame.html...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\package-summary.html...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\allclasses-frame.html...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\allclasses-noframe.html...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\index.html...
+Generating H:\Backgammon1,0\Backgammon1,0\doc\stylesheet.css...
+11 warnings
